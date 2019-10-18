@@ -48,6 +48,76 @@
       <string>ellipse</string>
      </property>
     </item>
+    <item>
+     <property name="text">
+      <string>circle</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>point</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>diamond</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>parallelogram</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Mdiamond</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>underline</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>cylinder</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>square</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>note</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>star</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>none</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>tab</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>folder</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>cds</string>
+     </property>
+    </item>
    </widget>
    <widget class="QComboBox" name="comboBox_2">
     <property name="geometry">
@@ -71,6 +141,46 @@
     <item>
      <property name="text">
       <string>yellow</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>cyan</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>green</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>gray</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>magenta</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>indigo</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>orange</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>navy</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>steelblue</string>
      </property>
     </item>
    </widget>
